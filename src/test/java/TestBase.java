@@ -2,7 +2,6 @@ import com.codeborne.selenide.Configuration;
 import config.WebDriverConfig;
 import org.aeonbits.owner.ConfigFactory;
 import org.junit.jupiter.api.BeforeAll;
-
 import java.util.Objects;
 
 import static com.codeborne.selenide.Selenide.open;
